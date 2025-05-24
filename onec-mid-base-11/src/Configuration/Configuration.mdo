@@ -817,6 +817,7 @@
   <commonModules>CommonModule.СерверныеОповещенияКлиент</commonModules>
   <commonModules>CommonModule.СерверныеОповещенияСлужебныйВызовСервера</commonModules>
   <commonModules>CommonModule.СерверныеОповещенияСлужебныйПовтИсп</commonModules>
+  <commonModules>CommonModule.Сов_РаботаСФормамиВызовСервера</commonModules>
   <commonModules>CommonModule.СозданиеНаОсновании</commonModules>
   <commonModules>CommonModule.СозданиеНаОснованииПереопределяемый</commonModules>
   <commonModules>CommonModule.СозданиеНаОснованииПовтИсп</commonModules>
